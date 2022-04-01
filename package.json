@@ -1,13 +1,16 @@
 {
-  "author" : "Lucas",
-  "description" : "FreeCodeCamp backend course with nodejs",
-  "keywords" : [ "freecodecamp", "nodejs", "package.json" ],
-  "license" : "MIT",
-  "version" : "1.0.0",
+	"author": "Lucas",
+	"description": "FreeCodeCamp backend course with nodejs",
+	"keywords": [
+		"freecodecamp",
+		"nodejs",
+		"package.json"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0",
-    "moment" : "^2.10.2"
+		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
